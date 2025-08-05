@@ -1,6 +1,9 @@
 flask
 openai
 pyautogui
+pygetwindow
 opencv-python
 whisper
 pytest
+flask-login
+flask-sqlalchemy
