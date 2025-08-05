@@ -1,0 +1,6 @@
+flask
+openai
+pyautogui
+opencv-python
+whisper
+pytest
